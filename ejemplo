@@ -1,0 +1,5 @@
+a, b, list1 = 10, 20, [1,2,3]
+print (a)
+print (b)
+print (list1)
+
